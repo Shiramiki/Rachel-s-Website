@@ -1,0 +1,22 @@
+Exercise 1: Setting Up GitHub
+Visit the GitHub website and create an account if you don't already have one.
+
+Exercise 2: Creating a New Repository
+After logging in to GitHub, click the plus (+) icon at the top right corner of the page and select 'New repository'.
+Give your repository a name, an optional description, choose to make it public or private, and click 'Create repository'.
+
+Exercise 3: Creating a New File and Making Changes
+In your new repository, click the 'Add file' button and select 'Create new file'.
+Name your file (for example, 'README.md'), then add some content in the text editor below.
+Once you've added your content, scroll down to 'Commit new file'. Here you can type a brief message describing your changes.
+Click 'Commit changes' to save the file to your repository.
+
+Exercise 4: Making Further Commits
+Navigate to your new file in the repository, click on the pencil icon (or 'Edit this file') to make changes to the file.
+After making your changes, scroll down to 'Commit changes', update the commit message, and click 'Commit changes'.
+
+Exercise 5: Installing and Using a Git GUI
+Install a Git GUI tool. Some options are GitHub Desktop, Sourcetree, and GitKraken.
+After installation, connect the tool with your GitHub account following its documentation.
+Once connected, you can clone the repository you created to your local machine.
+Use the GUI tool to make changes, commit them, and push the changes back to the remote repository on GitHub. Each GUI tool will have slightly different ways to do this, so refer to their specific documentation.
